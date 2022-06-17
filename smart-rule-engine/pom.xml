@@ -18,7 +18,7 @@
 		<java.version>1.8</java.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<mybatis-starter-version>2.1.0</mybatis-starter-version>
-		<fastjson.version>1.2.47</fastjson.version>
+		<fastjson.version>1.2.83</fastjson.version>
 		
 		<druid.version>1.0.29</druid.version>
 		<guava.version>18.0</guava.version>
